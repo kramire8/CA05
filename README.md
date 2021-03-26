@@ -9,6 +9,7 @@ Cardiovascular Disease (CVD) kills more people than cancer globally. A dataset o
 3. Build Logistic Regression Model
 4. Display Feature Importance
 5. Evaluate Model Performance 
+6. Conclusion
 
 ## Packages 
 import pandas as pd <br />
